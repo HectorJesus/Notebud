@@ -26,7 +26,6 @@ pycodestyle==2.10.0
 pymongo==4.3.3
 python-dotenv==1.0.0
 pytz==2023.3
-pywin32==306
 schedule==1.2.0
 six==1.16.0
 tomli==2.0.1
